@@ -6,7 +6,7 @@ Collecting tips and tricks to work with EcoDMS.
 Sometimes the index process fails. But where is the button to trigger the index process again?
 
 Open the EcoDMS client as administrator and navigate to Optionen > Einstellungen > Einstellungen >
-Datei Indizierung and press Ctrl + Alt + F7 to reindex every single document
+Datei Indizierung and press Ctrl + F7 to reset the index (press the button which pops up).
 
 ## Perform a backup
 Last time the backup triggerd on the UI didn't work. It threw an error message like "Process exited with
